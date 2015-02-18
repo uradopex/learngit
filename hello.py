@@ -1,2 +1,4 @@
 Hello, motherfuckers.
- coding: utf-8
+coding: utf-8
+path=../usr/bin/env
+
